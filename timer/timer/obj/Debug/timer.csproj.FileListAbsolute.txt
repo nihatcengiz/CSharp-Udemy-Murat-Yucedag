@@ -1,0 +1,11 @@
+C:\Users\Monster\Desktop\C# Udemy\timer\timer\bin\Debug\timer.exe.config
+C:\Users\Monster\Desktop\C# Udemy\timer\timer\bin\Debug\timer.exe
+C:\Users\Monster\Desktop\C# Udemy\timer\timer\bin\Debug\timer.pdb
+C:\Users\Monster\Desktop\C# Udemy\timer\timer\obj\Debug\timer.csproj.AssemblyReference.cache
+C:\Users\Monster\Desktop\C# Udemy\timer\timer\obj\Debug\timer.csproj.SuggestedBindingRedirects.cache
+C:\Users\Monster\Desktop\C# Udemy\timer\timer\obj\Debug\timer.Form1.resources
+C:\Users\Monster\Desktop\C# Udemy\timer\timer\obj\Debug\timer.Properties.Resources.resources
+C:\Users\Monster\Desktop\C# Udemy\timer\timer\obj\Debug\timer.csproj.GenerateResource.cache
+C:\Users\Monster\Desktop\C# Udemy\timer\timer\obj\Debug\timer.csproj.CoreCompileInputs.cache
+C:\Users\Monster\Desktop\C# Udemy\timer\timer\obj\Debug\timer.exe
+C:\Users\Monster\Desktop\C# Udemy\timer\timer\obj\Debug\timer.pdb

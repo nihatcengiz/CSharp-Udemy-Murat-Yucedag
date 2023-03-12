@@ -1,0 +1,11 @@
+C:\Users\Monster\Desktop\C# Udemy\Alisveris_app\Alisveris_app\bin\Debug\Alisveris_app.exe.config
+C:\Users\Monster\Desktop\C# Udemy\Alisveris_app\Alisveris_app\bin\Debug\Alisveris_app.exe
+C:\Users\Monster\Desktop\C# Udemy\Alisveris_app\Alisveris_app\bin\Debug\Alisveris_app.pdb
+C:\Users\Monster\Desktop\C# Udemy\Alisveris_app\Alisveris_app\obj\Debug\Alisveris_app.csproj.AssemblyReference.cache
+C:\Users\Monster\Desktop\C# Udemy\Alisveris_app\Alisveris_app\obj\Debug\Alisveris_app.csproj.SuggestedBindingRedirects.cache
+C:\Users\Monster\Desktop\C# Udemy\Alisveris_app\Alisveris_app\obj\Debug\Alisveris_app.Form1.resources
+C:\Users\Monster\Desktop\C# Udemy\Alisveris_app\Alisveris_app\obj\Debug\Alisveris_app.Properties.Resources.resources
+C:\Users\Monster\Desktop\C# Udemy\Alisveris_app\Alisveris_app\obj\Debug\Alisveris_app.csproj.GenerateResource.cache
+C:\Users\Monster\Desktop\C# Udemy\Alisveris_app\Alisveris_app\obj\Debug\Alisveris_app.csproj.CoreCompileInputs.cache
+C:\Users\Monster\Desktop\C# Udemy\Alisveris_app\Alisveris_app\obj\Debug\Alisveris_app.exe
+C:\Users\Monster\Desktop\C# Udemy\Alisveris_app\Alisveris_app\obj\Debug\Alisveris_app.pdb

@@ -1,0 +1,11 @@
+C:\Users\Monster\Desktop\C# Udemy\switch_ornek\switch_ornek\obj\Debug\switch_ornek.csproj.AssemblyReference.cache
+C:\Users\Monster\Desktop\C# Udemy\switch_ornek\switch_ornek\obj\Debug\switch_ornek.csproj.SuggestedBindingRedirects.cache
+C:\Users\Monster\Desktop\C# Udemy\switch_ornek\switch_ornek\obj\Debug\switch_ornek.Form1.resources
+C:\Users\Monster\Desktop\C# Udemy\switch_ornek\switch_ornek\obj\Debug\switch_ornek.Properties.Resources.resources
+C:\Users\Monster\Desktop\C# Udemy\switch_ornek\switch_ornek\obj\Debug\switch_ornek.csproj.GenerateResource.cache
+C:\Users\Monster\Desktop\C# Udemy\switch_ornek\switch_ornek\obj\Debug\switch_ornek.csproj.CoreCompileInputs.cache
+C:\Users\Monster\Desktop\C# Udemy\switch_ornek\switch_ornek\bin\Debug\switch_ornek.exe.config
+C:\Users\Monster\Desktop\C# Udemy\switch_ornek\switch_ornek\bin\Debug\switch_ornek.exe
+C:\Users\Monster\Desktop\C# Udemy\switch_ornek\switch_ornek\bin\Debug\switch_ornek.pdb
+C:\Users\Monster\Desktop\C# Udemy\switch_ornek\switch_ornek\obj\Debug\switch_ornek.exe
+C:\Users\Monster\Desktop\C# Udemy\switch_ornek\switch_ornek\obj\Debug\switch_ornek.pdb

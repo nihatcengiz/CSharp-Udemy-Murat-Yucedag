@@ -1,0 +1,17 @@
+C:\Users\Monster\Desktop\C# Udemy\Odev1\Odev1\bin\Debug\net6.0-windows\Odev1.exe
+C:\Users\Monster\Desktop\C# Udemy\Odev1\Odev1\bin\Debug\net6.0-windows\Odev1.deps.json
+C:\Users\Monster\Desktop\C# Udemy\Odev1\Odev1\bin\Debug\net6.0-windows\Odev1.runtimeconfig.json
+C:\Users\Monster\Desktop\C# Udemy\Odev1\Odev1\bin\Debug\net6.0-windows\Odev1.dll
+C:\Users\Monster\Desktop\C# Udemy\Odev1\Odev1\bin\Debug\net6.0-windows\Odev1.pdb
+C:\Users\Monster\Desktop\C# Udemy\Odev1\Odev1\obj\Debug\net6.0-windows\Odev1.csproj.AssemblyReference.cache
+C:\Users\Monster\Desktop\C# Udemy\Odev1\Odev1\obj\Debug\net6.0-windows\Odev1.Form1.resources
+C:\Users\Monster\Desktop\C# Udemy\Odev1\Odev1\obj\Debug\net6.0-windows\Odev1.csproj.GenerateResource.cache
+C:\Users\Monster\Desktop\C# Udemy\Odev1\Odev1\obj\Debug\net6.0-windows\Odev1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Monster\Desktop\C# Udemy\Odev1\Odev1\obj\Debug\net6.0-windows\Odev1.AssemblyInfoInputs.cache
+C:\Users\Monster\Desktop\C# Udemy\Odev1\Odev1\obj\Debug\net6.0-windows\Odev1.AssemblyInfo.cs
+C:\Users\Monster\Desktop\C# Udemy\Odev1\Odev1\obj\Debug\net6.0-windows\Odev1.csproj.CoreCompileInputs.cache
+C:\Users\Monster\Desktop\C# Udemy\Odev1\Odev1\obj\Debug\net6.0-windows\Odev1.dll
+C:\Users\Monster\Desktop\C# Udemy\Odev1\Odev1\obj\Debug\net6.0-windows\refint\Odev1.dll
+C:\Users\Monster\Desktop\C# Udemy\Odev1\Odev1\obj\Debug\net6.0-windows\Odev1.pdb
+C:\Users\Monster\Desktop\C# Udemy\Odev1\Odev1\obj\Debug\net6.0-windows\Odev1.genruntimeconfig.cache
+C:\Users\Monster\Desktop\C# Udemy\Odev1\Odev1\obj\Debug\net6.0-windows\ref\Odev1.dll

@@ -1,0 +1,12 @@
+C:\Users\Monster\Desktop\C# Udemy\captcha\captcha\bin\Debug\captcha.exe.config
+C:\Users\Monster\Desktop\C# Udemy\captcha\captcha\bin\Debug\captcha.exe
+C:\Users\Monster\Desktop\C# Udemy\captcha\captcha\bin\Debug\captcha.pdb
+C:\Users\Monster\Desktop\C# Udemy\captcha\captcha\obj\Debug\captcha.csproj.AssemblyReference.cache
+C:\Users\Monster\Desktop\C# Udemy\captcha\captcha\obj\Debug\captcha.csproj.SuggestedBindingRedirects.cache
+C:\Users\Monster\Desktop\C# Udemy\captcha\captcha\obj\Debug\captcha.Form1.resources
+C:\Users\Monster\Desktop\C# Udemy\captcha\captcha\obj\Debug\captcha.Properties.Resources.resources
+C:\Users\Monster\Desktop\C# Udemy\captcha\captcha\obj\Debug\captcha.csproj.GenerateResource.cache
+C:\Users\Monster\Desktop\C# Udemy\captcha\captcha\obj\Debug\captcha.csproj.CoreCompileInputs.cache
+C:\Users\Monster\Desktop\C# Udemy\captcha\captcha\obj\Debug\captcha.exe
+C:\Users\Monster\Desktop\C# Udemy\captcha\captcha\obj\Debug\captcha.pdb
+C:\Users\Monster\Desktop\C# Udemy\captcha\captcha\obj\Debug\captcha.Form2.resources

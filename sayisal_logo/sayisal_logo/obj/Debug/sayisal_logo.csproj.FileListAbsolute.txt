@@ -1,0 +1,11 @@
+C:\Users\Monster\Desktop\C# Udemy\sayisal_logo\sayisal_logo\obj\Debug\sayisal_logo.csproj.AssemblyReference.cache
+C:\Users\Monster\Desktop\C# Udemy\sayisal_logo\sayisal_logo\obj\Debug\sayisal_logo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Monster\Desktop\C# Udemy\sayisal_logo\sayisal_logo\obj\Debug\sayisal_logo.Form1.resources
+C:\Users\Monster\Desktop\C# Udemy\sayisal_logo\sayisal_logo\obj\Debug\sayisal_logo.Properties.Resources.resources
+C:\Users\Monster\Desktop\C# Udemy\sayisal_logo\sayisal_logo\obj\Debug\sayisal_logo.csproj.GenerateResource.cache
+C:\Users\Monster\Desktop\C# Udemy\sayisal_logo\sayisal_logo\obj\Debug\sayisal_logo.csproj.CoreCompileInputs.cache
+C:\Users\Monster\Desktop\C# Udemy\sayisal_logo\sayisal_logo\bin\Debug\sayisal_logo.exe.config
+C:\Users\Monster\Desktop\C# Udemy\sayisal_logo\sayisal_logo\bin\Debug\sayisal_logo.exe
+C:\Users\Monster\Desktop\C# Udemy\sayisal_logo\sayisal_logo\bin\Debug\sayisal_logo.pdb
+C:\Users\Monster\Desktop\C# Udemy\sayisal_logo\sayisal_logo\obj\Debug\sayisal_logo.exe
+C:\Users\Monster\Desktop\C# Udemy\sayisal_logo\sayisal_logo\obj\Debug\sayisal_logo.pdb

@@ -1,0 +1,11 @@
+C:\Users\Monster\Desktop\C# Udemy\dizi_ornek\dizi_ornek\bin\Debug\dizi_ornek.exe.config
+C:\Users\Monster\Desktop\C# Udemy\dizi_ornek\dizi_ornek\bin\Debug\dizi_ornek.exe
+C:\Users\Monster\Desktop\C# Udemy\dizi_ornek\dizi_ornek\bin\Debug\dizi_ornek.pdb
+C:\Users\Monster\Desktop\C# Udemy\dizi_ornek\dizi_ornek\obj\Debug\dizi_ornek.csproj.AssemblyReference.cache
+C:\Users\Monster\Desktop\C# Udemy\dizi_ornek\dizi_ornek\obj\Debug\dizi_ornek.csproj.SuggestedBindingRedirects.cache
+C:\Users\Monster\Desktop\C# Udemy\dizi_ornek\dizi_ornek\obj\Debug\dizi_ornek.Form1.resources
+C:\Users\Monster\Desktop\C# Udemy\dizi_ornek\dizi_ornek\obj\Debug\dizi_ornek.Properties.Resources.resources
+C:\Users\Monster\Desktop\C# Udemy\dizi_ornek\dizi_ornek\obj\Debug\dizi_ornek.csproj.GenerateResource.cache
+C:\Users\Monster\Desktop\C# Udemy\dizi_ornek\dizi_ornek\obj\Debug\dizi_ornek.csproj.CoreCompileInputs.cache
+C:\Users\Monster\Desktop\C# Udemy\dizi_ornek\dizi_ornek\obj\Debug\dizi_ornek.exe
+C:\Users\Monster\Desktop\C# Udemy\dizi_ornek\dizi_ornek\obj\Debug\dizi_ornek.pdb

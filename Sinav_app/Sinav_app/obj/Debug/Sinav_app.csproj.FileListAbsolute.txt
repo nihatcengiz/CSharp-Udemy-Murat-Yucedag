@@ -1,0 +1,11 @@
+C:\Users\Monster\Desktop\C# Udemy\Sinav_app\Sinav_app\bin\Debug\Sinav_app.exe.config
+C:\Users\Monster\Desktop\C# Udemy\Sinav_app\Sinav_app\bin\Debug\Sinav_app.exe
+C:\Users\Monster\Desktop\C# Udemy\Sinav_app\Sinav_app\bin\Debug\Sinav_app.pdb
+C:\Users\Monster\Desktop\C# Udemy\Sinav_app\Sinav_app\obj\Debug\Sinav_app.csproj.AssemblyReference.cache
+C:\Users\Monster\Desktop\C# Udemy\Sinav_app\Sinav_app\obj\Debug\Sinav_app.csproj.SuggestedBindingRedirects.cache
+C:\Users\Monster\Desktop\C# Udemy\Sinav_app\Sinav_app\obj\Debug\Sinav_app.Form1.resources
+C:\Users\Monster\Desktop\C# Udemy\Sinav_app\Sinav_app\obj\Debug\Sinav_app.Properties.Resources.resources
+C:\Users\Monster\Desktop\C# Udemy\Sinav_app\Sinav_app\obj\Debug\Sinav_app.csproj.GenerateResource.cache
+C:\Users\Monster\Desktop\C# Udemy\Sinav_app\Sinav_app\obj\Debug\Sinav_app.csproj.CoreCompileInputs.cache
+C:\Users\Monster\Desktop\C# Udemy\Sinav_app\Sinav_app\obj\Debug\Sinav_app.exe
+C:\Users\Monster\Desktop\C# Udemy\Sinav_app\Sinav_app\obj\Debug\Sinav_app.pdb

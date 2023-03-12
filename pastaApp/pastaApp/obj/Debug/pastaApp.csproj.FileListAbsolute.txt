@@ -1,0 +1,11 @@
+C:\Users\Monster\Desktop\C# Udemy\pastaApp\pastaApp\bin\Debug\pastaApp.exe.config
+C:\Users\Monster\Desktop\C# Udemy\pastaApp\pastaApp\bin\Debug\pastaApp.exe
+C:\Users\Monster\Desktop\C# Udemy\pastaApp\pastaApp\bin\Debug\pastaApp.pdb
+C:\Users\Monster\Desktop\C# Udemy\pastaApp\pastaApp\obj\Debug\pastaApp.csproj.AssemblyReference.cache
+C:\Users\Monster\Desktop\C# Udemy\pastaApp\pastaApp\obj\Debug\pastaApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Monster\Desktop\C# Udemy\pastaApp\pastaApp\obj\Debug\pastaApp.Form1.resources
+C:\Users\Monster\Desktop\C# Udemy\pastaApp\pastaApp\obj\Debug\pastaApp.Properties.Resources.resources
+C:\Users\Monster\Desktop\C# Udemy\pastaApp\pastaApp\obj\Debug\pastaApp.csproj.GenerateResource.cache
+C:\Users\Monster\Desktop\C# Udemy\pastaApp\pastaApp\obj\Debug\pastaApp.csproj.CoreCompileInputs.cache
+C:\Users\Monster\Desktop\C# Udemy\pastaApp\pastaApp\obj\Debug\pastaApp.exe
+C:\Users\Monster\Desktop\C# Udemy\pastaApp\pastaApp\obj\Debug\pastaApp.pdb
