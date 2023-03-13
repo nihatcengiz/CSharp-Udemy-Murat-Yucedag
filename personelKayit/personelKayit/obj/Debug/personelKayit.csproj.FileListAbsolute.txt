@@ -3,10 +3,12 @@ C:\Users\Monster\Desktop\C# Udemy\personelKayit\personelKayit\bin\Debug\personel
 C:\Users\Monster\Desktop\C# Udemy\personelKayit\personelKayit\bin\Debug\personelKayit.pdb
 C:\Users\Monster\Desktop\C# Udemy\personelKayit\personelKayit\obj\Debug\personelKayit.csproj.AssemblyReference.cache
 C:\Users\Monster\Desktop\C# Udemy\personelKayit\personelKayit\obj\Debug\personelKayit.csproj.SuggestedBindingRedirects.cache
-C:\Users\Monster\Desktop\C# Udemy\personelKayit\personelKayit\obj\Debug\personelKayit.Form1.resources
 C:\Users\Monster\Desktop\C# Udemy\personelKayit\personelKayit\obj\Debug\personelKayit.Properties.Resources.resources
 C:\Users\Monster\Desktop\C# Udemy\personelKayit\personelKayit\obj\Debug\personelKayit.csproj.GenerateResource.cache
 C:\Users\Monster\Desktop\C# Udemy\personelKayit\personelKayit\obj\Debug\personelKayit.csproj.CoreCompileInputs.cache
 C:\Users\Monster\Desktop\C# Udemy\personelKayit\personelKayit\obj\Debug\personelKayit.exe
 C:\Users\Monster\Desktop\C# Udemy\personelKayit\personelKayit\obj\Debug\personelKayit.pdb
 C:\Users\Monster\Desktop\C# Udemy\personelKayit\personelKayit\obj\Debug\personelKayit.Frmistatistik.resources
+C:\Users\Monster\Desktop\C# Udemy\personelKayit\personelKayit\obj\Debug\personelKayit.FrmAnaForm.resources
+C:\Users\Monster\Desktop\C# Udemy\personelKayit\personelKayit\obj\Debug\personelKayit.FrmGrafikler.resources
+C:\Users\Monster\Desktop\C# Udemy\personelKayit\personelKayit\obj\Debug\personelKayit.FrmGiris.resources

@@ -1,6 +1,6 @@
 ﻿namespace personelKayit
 {
-    partial class Form1
+    partial class FrmAnaForm
     {
         /// <summary>
         /// Required designer variable.
@@ -29,7 +29,7 @@
         private void InitializeComponent()
         {
             this.components = new System.ComponentModel.Container();
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FrmAnaForm));
             this.groupBox1 = new System.Windows.Forms.GroupBox();
             this.txtMeslek = new System.Windows.Forms.TextBox();
             this.label7 = new System.Windows.Forms.Label();
@@ -68,6 +68,7 @@
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.tbl_PersonelTableAdapter = new personelKayit.PersonelVeriTabaniDataSetTableAdapters.Tbl_PersonelTableAdapter();
             this.label8 = new System.Windows.Forms.Label();
+            this.btnRaporlar = new System.Windows.Forms.Button();
             this.groupBox1.SuspendLayout();
             this.groupBox2.SuspendLayout();
             this.groupBox3.SuspendLayout();
@@ -235,6 +236,7 @@
             // 
             // groupBox2
             // 
+            this.groupBox2.Controls.Add(this.btnRaporlar);
             this.groupBox2.Controls.Add(this.btnGrafikler);
             this.groupBox2.Controls.Add(this.btnİstatistik);
             this.groupBox2.Controls.Add(this.btnTemizle);
@@ -258,6 +260,7 @@
             this.btnGrafikler.TabIndex = 8;
             this.btnGrafikler.Text = "Grafikler";
             this.btnGrafikler.UseVisualStyleBackColor = false;
+            this.btnGrafikler.Click += new System.EventHandler(this.btnGrafikler_Click);
             // 
             // btnİstatistik
             // 
@@ -450,7 +453,17 @@
             this.label8.Visible = false;
             this.label8.TextChanged += new System.EventHandler(this.label8_TextChanged);
             // 
-            // Form1
+            // btnRaporlar
+            // 
+            this.btnRaporlar.BackColor = System.Drawing.Color.Pink;
+            this.btnRaporlar.Location = new System.Drawing.Point(25, 321);
+            this.btnRaporlar.Name = "btnRaporlar";
+            this.btnRaporlar.Size = new System.Drawing.Size(124, 33);
+            this.btnRaporlar.TabIndex = 9;
+            this.btnRaporlar.Text = "Raporlar";
+            this.btnRaporlar.UseVisualStyleBackColor = false;
+            // 
+            // FrmAnaForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(12F, 28F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -463,7 +476,7 @@
             this.Controls.Add(this.groupBox1);
             this.Font = new System.Drawing.Font("Corbel", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
-            this.Name = "Form1";
+            this.Name = "FrmAnaForm";
             this.Text = "Personel Yönetim Sistemi";
             this.Load += new System.EventHandler(this.Form1_Load);
             this.groupBox1.ResumeLayout(false);
@@ -519,6 +532,7 @@
         private System.Windows.Forms.DataGridViewCheckBoxColumn perDurumDataGridViewCheckBoxColumn;
         private System.Windows.Forms.DataGridViewTextBoxColumn perMeslekDataGridViewTextBoxColumn;
         private System.Windows.Forms.Label label8;
+        private System.Windows.Forms.Button btnRaporlar;
     }
 }
 
