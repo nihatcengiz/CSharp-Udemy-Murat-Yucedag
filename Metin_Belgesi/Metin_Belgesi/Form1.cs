@@ -31,6 +31,7 @@ namespace Metin_Belgesi
             }
         }
 
+
         private void button2_Click(object sender, EventArgs e)
         {
             dosyaadi = textBox2.Text;
@@ -39,5 +40,34 @@ namespace Metin_Belgesi
         }
 
        
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            if (openFileDialog1.ShowDialog() == DialogResult.OK)
+            {
+                StreamReader sr = new StreamReader(openFileDialog1.FileName);
+                string satir = sr.ReadLine();
+                while (satir!=null)
+                {
+                    listBox1.Items.Add(satir);
+                    satir =sr.ReadLine();
+                }
+
+            }
+
+
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            
+            saveFileDialog1.Filter = "Metin Dosyalar|*.txt";
+            saveFileDialog1.Title = "Metin Belgesi Kayıt";
+            saveFileDialog1.ShowDialog();
+            StreamWriter sw=new StreamWriter(saveFileDialog1.FileName);
+            sw.WriteLine(richTextBox1.Text);
+            sw.Close();
+            MessageBox.Show("Kayıt Oluşturuldu.");
+        }
     }
 }
